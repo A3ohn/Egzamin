@@ -1,5 +1,5 @@
 * {
-  background-color: aqua;
+  background: #b6e4e4;
 }
 
 form {
@@ -13,5 +13,13 @@ form {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
+  position: relative;
+}
+
+input {
+  background: #020024;
+  background: -webkit-gradient(linear, left top, right top, from(#020024), color-stop(11%, #097961), color-stop(42%, #00d4ff), to(#00d4ff));
+  background: linear-gradient(90deg, #020024 0%, #097961 11%, #00d4ff 42%, #00d4ff 100%);
+  background-color: transparent;
 }
 /*# sourceMappingURL=style.css.map */
