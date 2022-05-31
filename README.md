@@ -1,3 +1,3 @@
 # Egzamin
 
-Panel Logowania
+Formularz Logowania
